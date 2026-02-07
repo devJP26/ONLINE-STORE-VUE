@@ -1,5 +1,67 @@
 # Vue 3 + TypeScript + Vite
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# Online Store – Vue.js + TypeScript
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+  - Single-page Online Store application that allows Bühler customers to browse products and place orders.
+
+# Tech Stack
+
+  1. Vue 3
+
+  2. TypeScript
+
+  3. Vite
+
+  4. Pinia
+
+  5. Vue Router
+
+# Features
+
+  - Section-wise product listing
+
+    1. Product detail page
+
+    2. Add to cart
+
+    3. Checkout with total
+
+    4. Remove from cart
+
+    5. Responsive UI
+
+# Getting Started
+  - Prerequisites
+
+    1. Node.js v18+
+
+  - Check:
+
+    node -v
+
+# Install
+  - git clone https://github.com/YOUR_USERNAME/online-store-vue.git
+  -  cd online-store-vue
+  - npm install
+
+# Run
+  -  npm run dev
+
+
+# Open:
+
+  - http://localhost:5173
+
+# Build
+  - npm run build
+
+# Project Structure
+src/
+  components/
+  views/
+  store/
+  router/
+  data/
+
+# 👤 Author
+  Jishnu P Vijayakumar
